@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uM3UK6RSJLU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
