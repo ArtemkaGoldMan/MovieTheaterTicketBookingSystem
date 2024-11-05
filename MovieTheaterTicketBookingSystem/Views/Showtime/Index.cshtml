@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MovieTheaterTicketBookingSystem.Models.Showtime>
+
+@{
+    ViewData["Title"] = "Showtime";
+}
+
+<h1>Showtimes</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Movie ID</th>
+            <th>DateTime</th>
+            <th>Theater Hall</th>
+            <th>Price</th>
+            <th>Available Seats</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var showtime in Model)
+        {
+            <tr>
+                <td>@showtime.MovieID</td>
+                <td>@showtime.DateTime</td>
+                <td>@showtime.TheaterHall</td>
+                <td>@showtime.Price</td>
+                <td>@showtime.AvailableSeats</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = showtime.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = showtime.ID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create", "Showtime")" class="btn btn-primary">Add Showtime</a>

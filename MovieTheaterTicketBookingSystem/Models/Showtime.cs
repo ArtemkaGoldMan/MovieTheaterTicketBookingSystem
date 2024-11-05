@@ -2,11 +2,12 @@
 {
     public class Showtime
     {
-        public int ShowtimeID { get; set; }
-        public int EntertainmentID { get; set; }
-        public DateTime Date { get; set; }
-        public string Time { get; set; } // e.g., "7:30 PM"
+        public int ID { get; set; }
+        public int MovieID { get; set; }
+        public DateTime DateTime { get; set; }
         public int AvailableSeats { get; set; }
-        public string TheaterHall { get; set; }
+        public int Price { get; set; }
+        public string? TheaterHall { get; set; } 
     }
+
 }

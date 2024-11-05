@@ -1,0 +1,28 @@
+﻿@model MovieTheaterTicketBookingSystem.Models.Showtime
+
+<h1>Edit Showtime</h1>
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.ID)
+    <div class="form-group">
+        <label for="MovieID">Movie ID</label>
+        @Html.TextBoxFor(m => m.MovieID, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label for="DateTime">DateTime</label>
+        @Html.TextBoxFor(m => m.DateTime, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label for="TheaterHall">Theater Hall</label>
+        @Html.TextBoxFor(m => m.TheaterHall, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label for="Price">Price</label>
+        @Html.TextBoxFor(m => m.Price, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label for="AvailableSeats">Available Seats</label>
+        @Html.TextBoxFor(m => m.AvailableSeats, new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+}

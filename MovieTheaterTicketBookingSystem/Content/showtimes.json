@@ -1,0 +1,10 @@
+[
+  {
+    "ID": 1,
+    "MovieID": 3,
+    "DateTime": "0001-01-01T00:00:00",
+    "AvailableSeats": 14232,
+    "Price": 141,
+    "TheaterHall": "adafa"
+  }
+]

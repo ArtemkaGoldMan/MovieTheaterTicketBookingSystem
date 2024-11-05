@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\showtime\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\showtime\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\showtime\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\showtime\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\showtime\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\showtime\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\movietheaterticketbookingsystem\\movietheaterticketbookingsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97317A3-D988-41C4-B561-90767EBDC163}|MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem.csproj|solutionrelative:movietheaterticketbookingsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +74,184 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwEwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T16:36:10.504Z",
+              "WhenOpened": "2024-11-05T14:19:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Showtime\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Showtime\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Showtime\\Edit.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Showtime\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:17:04.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAuwD0AAAA4AAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Showtime\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Showtime\\Create.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Showtime\\Create.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Showtime\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T16:34:43.857Z",
+              "WhenOpened": "2024-11-05T14:16:49.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Showtime\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Showtime\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Showtime\\Index.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Showtime\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:16:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:15:21.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:14:54.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:14:02.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowTimeController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Controllers\\ShowTimeController.cs",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Controllers\\ShowTimeController.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Controllers\\ShowTimeController.cs",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Controllers\\ShowTimeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:10:36.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:17:57.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:18:52.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:13:40.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:13:36.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:11:16.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieTheaterTicketBookingSystem\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\MovieTheaterTicketBookingSystem\\MovieTheaterTicketBookingSystem\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieTheaterTicketBookingSystem\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:04:42.382Z",
               "EditorCaption": ""
             }
           ]

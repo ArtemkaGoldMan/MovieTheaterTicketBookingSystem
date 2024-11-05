@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MovieTheaterTicketBookingSystem.Models.Booking>
+
+@{
+    ViewData["Title"] = "Booking";
+}
+<h1>Bookings</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer Name</th>
+            <th>Movie ID</th>
+            <th>Showtime ID</th>
+            <th>Seats Booked</th>
+            <th>Number of Tickets</th>
+            <th>Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var booking in Model)
+        {
+            <tr>
+                <td>@booking.CustomerName</td>
+                <td>@booking.MovieID</td>
+                <td>@booking.ShowtimeID</td>
+                <td>@booking.SeatsBooked</td>
+                <td>@booking.NumberOfTickets</td>
+                <td>@booking.TotalPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>

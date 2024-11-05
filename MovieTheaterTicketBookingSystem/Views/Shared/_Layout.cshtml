@@ -31,19 +31,36 @@
                         </a>
                     </li>
                     <li>
+                        <a href="@Url.Action("Index", "Movie")">
+                            <i class="now-ui-icons education_paper"></i>
+                            <p>Movies</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index", "Showtime")">
+                            <i class="now-ui-icons ui-1_calendar-60"></i>
+                            <p>Showtimes</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index", "Booking")">
+                            <i class="now-ui-icons business_money-coins"></i>
+                            <p>Bookings</p>
+                        </a>
+                    </li>
+                    <li>
                         <a href="@Url.Action("Privacy", "Home")">
                             <i class="now-ui-icons users_single-02"></i>
                             <p>Privacy</p>
                         </a>
                     </li>
-                    <!-- Add more links as needed -->
                 </ul>
             </div>
         </div>
 
         <div class="main-panel">
             <!-- Navbar -->
-            <nav class="navbar navbar-expand-lg navbar-transparent  bg-primary  navbar-absolute">
+            <nav class="navbar navbar-expand-lg navbar-transparent bg-primary navbar-absolute">
                 <div class="container-fluid">
                     <div class="navbar-wrapper">
                         <a class="navbar-brand" href="#">@ViewData["Title"]</a>

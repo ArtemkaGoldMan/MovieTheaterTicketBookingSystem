@@ -20,11 +20,14 @@ C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\Movi
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieTheaterTicketBookingSystem.props
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieTheaterTicketBookingSystem.props
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\scopedcss\bundle\MovieTheaterTicketBookingSystem.styles.css
-C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\scopedcss\projectbundle\MovieTheaterTicketBookingSystem.bundle.scp.css
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\MovieTheaterTicketBookingSystem.dll
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\refint\MovieTheaterTicketBookingSystem.dll
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\MovieTheaterTicketBookingSystem.pdb
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\MovieTheaterTicketBookingSystem.genruntimeconfig.cache
 C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\ref\MovieTheaterTicketBookingSystem.dll
+C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\MovieTheaterTicketBookingSystem.csproj.AssemblyReference.cache
+C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\MovieTheaterTicketBookingSystem.sourcelink.json
+C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\obj\Debug\net8.0\MovieThe.469F8F3B.Up2Date
+C:\Users\artem\University\Proj_Web_Les\lab3\MovieTheaterTicketBookingSystem\MovieTheaterTicketBookingSystem\bin\Debug\net8.0\Content\movies.json
